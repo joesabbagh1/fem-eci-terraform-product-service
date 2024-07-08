@@ -7,6 +7,6 @@ variable "environment" {
 }
 
 variable "registry" {
-  default = "fem-eci-joe"
+  default = "256275454448.dkr.ecr.us-west-2.amazonaws.com"
   type    = string
 }
