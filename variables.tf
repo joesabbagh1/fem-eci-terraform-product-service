@@ -7,6 +7,6 @@ variable "environment" {
 }
 
 variable "registry" {
-  default = "fem-eci-joe"
+  default = "<your-registry-domain>"
   type    = string
 }
